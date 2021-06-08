@@ -1,0 +1,73 @@
+Having trouble viewing this email? Click here to access the web https://Newsletter-Tundra-Wolves.util.repl.co version.
+
+https://repl.it
+
+class ReplNewsletter {
+
+var content = ReplNews() }
+
+Hi username,
+
+Welcome back to this edition of the Repl.it newsletter! In this edition:
+
+Graphic Repl Improvements 
+
+Teams for Education updates
+
+New C++ Curriculum
+
+Your website stats
+
+Jobs, jobs, jobs
+
+Goodbye and some resources
+
+Oh, and if you're curious, the language used in this newsletter is... Swift http://repl.it/l/swift?ref=newsletter
+
+enum ReplGraphics {
+
+https://blog.repl.it/native-graphics-love
+
+We promised we would improve the graphics quality of our repls, and this is where we start. The native graphics experience is faster, more reliable, and elegant. Common issues like applications not launching and window resizing have been fixed. In addition, to improve the Java swing experience, all Java repls now have 4x the power to compile code. If you’re a nerd like us and are interested in the changes we made, check out our article https://blog.repl.it/native-graphics-love on our new system.
+
+init(class: String, project: String) {
+
+https://blog.repl.it/teamsforedu-01-22-2021
+
+Teachers and educators can now bulk share assignments on Teams for Education! This means that if you’re managing multiple classrooms on repl.it, it’s easier than ever to share your work across your classes and even with other teachers! On a side note, January 31st is the day when we’re ending access to our legacy Classroom product. When you make the switch https://repl.it/classroom-migration, this is one of the many benefits you can look forward to. For more information, see our blog post https://blog.repl.it/teamsforedu-01-22-2021.
+
+let curriculum = "C++ by " + repler
+
+https://docs.repl.it/curriculum/introCpp
+
+One of the fastest languages around just made an appearance as a repl.it curriculum. Please welcome Intro to C++ https://docs.repl.it/curriculum/introCpp from Alfonso Torres. A course that lets teachers and educators easily impart the ability to program in C++ into their students. If you’re a student or self learner, feel free to take these resources and learn from them as well. You can find all the great tutorials Alfonso Torres created here https://docs.repl.it/curriculum/introCpp.
+
+stats.sorted(by: { $0 > $1 } )
+
+https://repl.it/talk/share/ReplStats-Search-analytics-data-for-web-REPLs/116428
+
+Did you know, a while back our CEO created a tool so you could examine how many times a repl website is opened. A repler found the tool, and used it to create ReplStats. ReplStats allows you to view how many people opened your website on repl.it over the course of many days. You can see how many people opened THIS newsletter in their browser here https://stats.irethekid.repl.co/stats/Newsletter-Tundra-Wolves.util.repl.co, or see how your own repls have done https://repl.it/talk/share/ReplStats-Search-analytics-data-for-web-REPLs/116428.
+
+job = work ?? ReplJob()
+
+https://repl.it/careers
+
+Repl.it is hiring! We need designers, engineers, data scientists, growth managers and more, and you could be just the person. We offer either on site in San Francisco, the home of technological innovation, or remote! With competitive salaries, a safe and enjoyable working environment, and the freedom to innovate, we’re looking for people with not just a willingness to learn, but a desire to make the world better than how they found it. If this sounds like an intriguing offer, check out our jobs page https://repl.it/careers for more information on positions and how to get in touch.
+
+try something.new(on: Replit)
+
+https://repl.it/talk/learn/A-Starter-Guide-to-Pygame/11741
+
+Thanks for reading this week’s repl.it newsletter! We hope you enjoyed it, and are as excited as we are with our new graphic repls! If you’re interested in utilizing our new and improved features, checkout this pygame tutorial https://repl.it/talk/learn/A-Starter-Guide-to-Pygame/11741 for Python 3, or swing tutorial https://repl.it/talk/learn/Java-Swing-Tutorial-Day-1-LEARN-HOW-TO-CREATE-A-GUI/46008 for Java. WIth that said, have a great week everyone, and good luck for our students moving into the second semester!
+
+// Good luck!
+
+As always, please feel free to give us feedback on our feedback boards! https://repl.it/feedback/?ref=newsletter
+
+Best,
+
+Nathan & the rest of the Repl.it Team
+
+Follow us on Twitter https://twitter.com/replit|Facebook https://facebook.com/replit|Instagram https://instagram.com/repl.it
+
+Unsubscribe http://url1361.repl.it/asm/unsubscribe/global/?user_id=8107274&data=QEJTanPCTYVPSh9XvIPZ-iHhhtE9UDI6aI3UGHPg6sB38QhgA4u16zoMqqGAmHbRYIdQYcbjjOO6sLq5ReLUQJT_um07gMySDAghRe3r18AD4N8U53aRL8uBehV0SEEPlFip20W9KqND3cFFHWxLislFDsW_MohAWW2ImSCsGVFbqV-ToBJ0l4rvwoyYP8PNeExVaM-Dqc-RMSJbf57n1nQCIt-JzzcIZx_2I63CLQ0fOA2E75Kg4XuSpEZznEELx5S1px9vEnzOWm8JszE2I9GCXHrGw-AcFmRXMr62dHpUOfRp1UJxIIcJ0UJlOaxGf1xZgVzVhLD9w9t2oTldtAKkB7JotqWPhZ4aUYNVDGUHXcA0ZCSDRatgQ-mb4hnp7cwaJx5WqTXpjJ6E4EjPlzQTGQebBMFIzZ2YoYG-MNs_zJ8dFpVcF--w6DBz1hP60bVtfmayJfBzJy_0HgaAagd-EvVMM6oSVOWG-uUVeh_fsZVuSsSbhIbM3vHTnuUc3xkD_UkowxRGuW3dvszJPpOgdBijk996WcQ3HZOJRHT5JCKxsYFWb5Q7N3B1PVg1w9-_bF4ROAYGkVbwXnD0TL7KDCiofJ4YYmDVhLw_3DGYjG3nVgBBVRAm8EE3bHGkXJyiSKSGVcO15MKBBQDPFQ==
